@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naveed Khan</h1>
 <h3 align="center">A passionate programmer from Pakistan.</h3>
-<img align="right" alt="coding"width="500"src="https://media4.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif">
+<img align="right" alt="coding"width="400"src="https://media4.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveedkhan35" alt="naveedkhan35" /></a> </p>
 
