@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naveed Khan</h1>
 <h3 align="center">A passionate programmer from Pakistan.</h3>
-<img align="right" alt="coding"width="400"src="https://media4.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif">
+<img align="right" alt="coding"width="400"src="[https://media4.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80390060030853805991279322829627921456173715833405309723844448000109187170305/)">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveedkhan35" alt="naveedkhan35" /></a> </p>
 
