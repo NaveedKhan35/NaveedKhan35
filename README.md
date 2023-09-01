@@ -1,2 +1,2 @@
 This my first repositry Git.
-Author: Naveed Khan.
+Author-Naveed Khan.
